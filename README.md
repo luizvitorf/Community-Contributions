@@ -10,9 +10,8 @@ Azure
 <b>Contributions:</b>
 
 Microsoft Docs<br>
-Articles - Blog luizlima.net<br>
-YouTube - Power Tuning<br>
-YouTube - Evangelizando SQL<br>
+Articles<br>
+YouTube<br>
 Events
 
 <b>Links:</b>
