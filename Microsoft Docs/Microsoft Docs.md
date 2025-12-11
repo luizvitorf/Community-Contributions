@@ -1,22 +1,18 @@
-# Community-Contributions
+# Microsoft Docs
 
-This repository consolidates my contributions between January and December 2025.
+<b>Number of contributions: 3</b>
 
-<b>Areas of Contribution</b><br>
+<b>Managed Backup to Microsoft Azure problem with SQL Server Web Edition #9999</b><br>
 
-Data (SQL Server)<br>
-Azure
+<b>Pull Request:</b> https://github.com/MicrosoftDocs/sql-docs/pull/9999<br>
+<b>Microsoft Docs:</b> https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/automated-backups-overview?view=azuresql
 
-<b>Contributions:</b>
+<b>DatabaseMail - Display Name - Caractere "\" #10203</b>
 
-Microsoft Docs<br>
-Articles - Blog luizlima.net<br>
-YouTube - Power Tuning<br>
-YouTube - Evangelizando SQL<br>
-Events
+<b>Pull Request:</b> https://github.com/MicrosoftDocs/sql-docs/pull/10203<br>
+<b>Microsoft Docs:</b> https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/configure-database-mail?view=sql-server-ver17
 
-<b>Links:</b>
+<b>Azure SQL Managed Instance does not back up system databases #10078</b>
 
-Linkedin - https://www.linkedin.com/in/luizvitorlima/<br>
-Blog - https://luizlima.net/<br>
-Youtube - https://www.youtube.com/channel/UCkomEA1Yef6DEa6vB4WYfWw
+<b>Pull Request:</b> https://github.com/MicrosoftDocs/sql-docs/pull/10078<br>
+<b>Microsoft Docs:</b> https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/sql-server-managed-backup-to-microsoft-azure?view=sql-server-ver16
