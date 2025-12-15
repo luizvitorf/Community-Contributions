@@ -1,38 +1,32 @@
-# Events
+# Event Details:
 
-<b>Number of contributions: 5</b>
+<b>Name:</b> Roundtable Discussion - First Steps in IT (organization and speaker)<br/>
+<b>Date:</b> Sep 11, 2025<br/>
+<b>Location:</b> SENAC - Av. Mal. Mascarenhas de Moraes, 2077 - Bento Ferreira, Vitória/ES - Brazil<br/><br/>
+<b>Event Site:</b> <a href="https://www.sympla.com.br/evento/mesa-redonda-primeiros-passos-na-ti/3114690">Link</a><br/>
+<b>Linkedin:</b> <a href="https://www.linkedin.com/posts/rusleysantos_foi-muito-bom-estar-com-voc%C3%AAs-e-poder-compartilhar-ugcPost-7372119171867963392-njWL/">Post</a><br/>
+<b>See Photos:</b> <a href="https://github.com/luizvitorf/Community-Contributions/tree/main/Events/2025-09-11%20-%20SENAC%20-%20Mesa%20Redonda%20-%20Primeiros%20Passos%20na%20TI/Photos">Here</a><br/><br/>
+<b>Number of Participants: </b>100<br/><br/>
 
-<b>Dev Day #2 (organização)</b>
+<b>Organization:</b><br/>
 
-<b>Data:</b> 05/07/2025<br>
-<b>Local:</b> Autoglass – Av. Carlos Lindenberg, 3785, Nossa Sra. da Penha, Vila Velha/ES (próximo ao viaduto)<br>
-<b>Link Event:</b> https://www.sympla.com.br/evento/dev-day-2/3009937<br>
-<b>Linkedin:</b> https://www.linkedin.com/posts/tallesvaliatti_fala-galera-nesse-final-de-semana-05-ugcPost-7347965282335842307-BgTp/<br><br>
+We made arrangements with the SENAC representatives regarding the day of the event, the topics that would be covered, the number of participants, etc.<br/>
 
-<b>Power Talks: Duelo dos Bancos de Dados - SQL Server X PostgreSQL (organização)</b>
+<b>Event:</b><br/>
 
-<b>Data:</b> 21/08/2025<br>
-<b>Local:</b> Unisales, Av. Vitória, 950, Forte São João, Vitória/ES<br>
-<b>Link Event:</b> https://www.sympla.com.br/evento/power-talks-duelo-dos-bancos-de-dados-sql-server-x-postgresql/3078307<br>
-<b>Linkedin:</b> https://www.linkedin.com/posts/luizvitorlima_soupowertuning-powertalks-unisales-activity-7364641348907339777-cQJh/<br><br>
+An event geared towards students and beginners in the Information Technology field, featuring a roundtable discussion with experienced professionals from the market. It will be an open space for exchanging experiences, clarifying doubts, and learning about different career paths in technology.<br/>
 
-<b>Mesa Redonda - Primeiros Passos na TI (palestrante)</b>
+An opportunity for practical learning and inspiration for those who wish to build a career in the field.<br/>
 
-<b>Data:</b> 11/09/2025<br>
-<b>Local:</b> SENAC – Vitória - Avenida Marechal Mascarenhas de Moraes, 2077<br>
-<b>Link Event:</b> https://www.sympla.com.br/evento/mesa-redonda-primeiros-passos-na-ti/3114690<br>
-<b>Linkedin:</b> https://www.linkedin.com/posts/rusleysantos_foi-muito-bom-estar-com-voc%C3%AAs-e-poder-compartilhar-ugcPost-7372119171867963392-njWL/<br><br>
+If you are starting out in IT or want to better understand the possible paths in this universe, this event is for you!<br/>
 
-<b>Dev Day #03 - Carreira: Iniciando do Zero! (palestrante)</b>
+Panel Representatives:<br/>
 
-<b>Data:</b> 04/10/2025<br>
-<b>Local:</b> Faculdade Multivix Vila Velha - Rod. do Sol, 3990 - Jockey de Itaparica, Vila Velha - ES, 29129-640<br>
-<b>Link Event:</b> https://www.sympla.com.br/evento/dev-day-03/3147864<br>
-<b>Linkedin:</b> https://www.linkedin.com/posts/luizvitorlima_luizlimadba-ties-carreira-activity-7380907795723776000-YAYW/<br><br>
+- Rusley // SRE/ERT Banco BV – Instructor Senac<br/>
+- Rafael Honório // Software Engineer at Stone<br/>
+- Felipe Faria // Software Developer, UX/UI Designer at AzureBrasil.cloud<br/>
+- Luiz Vitor // DBA Team Leader at Power Tuning<br/>
 
-<b>Data & AI Saturday 2025 - Vitória-ES (organização)</b>
+Don't miss this chance to learn, exchange experiences, and expand your network in the technology field.<br/>
 
-<b>Data:</b> 06/12/2025<br>
-<b>Local:</b> Unisales, Av. Vitória, 950, Forte São João, Vitória/ES<br>
-<b>Link Event:</b> https://www.sympla.com.br/evento/data-saturday-1129-vitoria-2025/3164755<br>
-<b>Linkedin:</b> https://www.linkedin.com/feed/update/urn:li:activity:7404175864017547264/
+At this event, each speaker was able to talk a little about their own career path and answer various questions from students in IT-related courses.
