@@ -28,7 +28,7 @@
       1
     </td>
     <td align=center>
-      21/03/2025
+      Mar 21, 2025
     </td>
     <td>
       Managed Backup to Microsoft Azure problem with SQL Server Web Edition
@@ -48,7 +48,7 @@
       2
     </td>
     <td>
-      26/05/2025
+      May 26, 2025
     </td>
     <td>
       Azure SQL Managed Instance does not back up system databases
@@ -68,7 +68,7 @@
       3
     </td>
     <td>
-      13/10/2025
+      Oct 13, 2025
     </td>
     <td>
       DatabaseMail - Display Name - Caractere "\"
