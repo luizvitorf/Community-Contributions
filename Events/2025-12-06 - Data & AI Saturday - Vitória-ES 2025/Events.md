@@ -1,38 +1,17 @@
-# Events
+# Event Details:
 
-<b>Number of contributions: 5</b>
+<b>Name:</b> Data & AI Saturday – Vitória-ES 2025 (organization)<br/>
+<b>Date:</b> Dec 6, 2025<br/>
+<b>Location:</b> Unisales - Av. Vitória, 950, Forte São João, Vitória/ES - Brazil<br/><br/>
+<b>Event Site:</b> <a href="https://www.sympla.com.br/evento/data-saturday-1129-vitoria-2025/3164755">Link</a><br/>
+<b>Linkedin:</b> <a href="https://www.linkedin.com/feed/update/urn:li:activity:7404175864017547264/">Post</a><br/>
+<b>See Photos:</b> <a href="https://github.com/luizvitorf/Community-Contributions/tree/main/Events/2025-12-06%20-%20Data%20%26%20AI%20Saturday%20-%20Vit%C3%B3ria-ES%202025/Photos">Here</a><br/><br/>
+<b>Number of Participants: </b>400<br/><br/>
 
-<b>Dev Day #2 (organização)</b>
+<b>Organization:</b><br/>
 
-<b>Data:</b> 05/07/2025<br>
-<b>Local:</b> Autoglass – Av. Carlos Lindenberg, 3785, Nossa Sra. da Penha, Vila Velha/ES (próximo ao viaduto)<br>
-<b>Link Event:</b> https://www.sympla.com.br/evento/dev-day-2/3009937<br>
-<b>Linkedin:</b> https://www.linkedin.com/posts/tallesvaliatti_fala-galera-nesse-final-de-semana-05-ugcPost-7347965282335842307-BgTp/<br><br>
+Data & AI Saturday is a global event, which even has the support and sponsorship of Microsoft + AMD. We hold an edition every year here in Vitória-ES. It's a grand event that requires a lot of time and effort from the organization, as we need to hold many alignment meetings, some of which are in person at the event venue. In recent years, we have managed to gather 400 to 500 participants per edition; the event grows every year.<br/>
 
-<b>Power Talks: Duelo dos Bancos de Dados - SQL Server X PostgreSQL (organização)</b>
+This was my second year on the organizing team, being one of the most active members, with several responsibilities. I made all the contact with the sponsors to receive the money that would be used in the event, made payments to suppliers, participated in a meeting with Linda Leste from Microsoft to align the sponsorship, put together the schedule of lectures, made alignments and adjustments with the speakers, on the day of the event, I was part of the opening and helped with the organization from beginning to end. The event was a success and we are already thinking about the next one.<br/>
 
-<b>Data:</b> 21/08/2025<br>
-<b>Local:</b> Unisales, Av. Vitória, 950, Forte São João, Vitória/ES<br>
-<b>Link Event:</b> https://www.sympla.com.br/evento/power-talks-duelo-dos-bancos-de-dados-sql-server-x-postgresql/3078307<br>
-<b>Linkedin:</b> https://www.linkedin.com/posts/luizvitorlima_soupowertuning-powertalks-unisales-activity-7364641348907339777-cQJh/<br><br>
-
-<b>Mesa Redonda - Primeiros Passos na TI (palestrante)</b>
-
-<b>Data:</b> 11/09/2025<br>
-<b>Local:</b> SENAC – Vitória - Avenida Marechal Mascarenhas de Moraes, 2077<br>
-<b>Link Event:</b> https://www.sympla.com.br/evento/mesa-redonda-primeiros-passos-na-ti/3114690<br>
-<b>Linkedin:</b> https://www.linkedin.com/posts/rusleysantos_foi-muito-bom-estar-com-voc%C3%AAs-e-poder-compartilhar-ugcPost-7372119171867963392-njWL/<br><br>
-
-<b>Dev Day #03 - Carreira: Iniciando do Zero! (palestrante)</b>
-
-<b>Data:</b> 04/10/2025<br>
-<b>Local:</b> Faculdade Multivix Vila Velha - Rod. do Sol, 3990 - Jockey de Itaparica, Vila Velha - ES, 29129-640<br>
-<b>Link Event:</b> https://www.sympla.com.br/evento/dev-day-03/3147864<br>
-<b>Linkedin:</b> https://www.linkedin.com/posts/luizvitorlima_luizlimadba-ties-carreira-activity-7380907795723776000-YAYW/<br><br>
-
-<b>Data & AI Saturday 2025 - Vitória-ES (organização)</b>
-
-<b>Data:</b> 06/12/2025<br>
-<b>Local:</b> Unisales, Av. Vitória, 950, Forte São João, Vitória/ES<br>
-<b>Link Event:</b> https://www.sympla.com.br/evento/data-saturday-1129-vitoria-2025/3164755<br>
-<b>Linkedin:</b> https://www.linkedin.com/feed/update/urn:li:activity:7404175864017547264/
+We received excellent feedback after the event, which reinforces the commitment of the entire organizing team, who always think of every detail to deliver the best possible event. Congratulations to the whole team!
