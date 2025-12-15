@@ -5,7 +5,7 @@
 <b>Location:</b> Unisales - Av. Vitória, 950, Forte São João, Vitória/ES - Brazil<br/><br/>
 <b>Event Site:</b> <a href="https://www.sympla.com.br/evento/power-talks-duelo-dos-bancos-de-dados-sql-server-x-postgresql/3078307">Link</a><br/>
 <b>Linkedin:</b> <a href="https://www.linkedin.com/posts/luizvitorlima_soupowertuning-powertalks-unisales-activity-7364641348907339777-cQJh/">Post</a><br/>
-<b>See Photos:</b> <a href="">Here</a><br/><br/>
+<b>See Photos:</b> <a href="https://github.com/luizvitorf/Community-Contributions/tree/main/Events/2025-08-21%20-%20Power%20Talks%20-%20Duelo%20dos%20Bancos%20de%20Dados%20-%20SQL%20Server%20X%20PostgreSQL/Photos">Here</a><br/><br/>
 <b>Number of Participants: </b>100<br/><br/>
 
 <b>Organization:</b><br/>
