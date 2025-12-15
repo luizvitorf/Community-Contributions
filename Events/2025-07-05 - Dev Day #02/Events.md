@@ -1,11 +1,13 @@
 # Event Details:
 
 <b>Name:</b> Dev Day #02 (organization)<br/>
-<b>Event Site: </b> <a href="https://www.sympla.com.br/evento/dev-day-2/3009937">Link</a><br/>
 <b>Date:</b> Jul 5, 2025<br/>
-<b>Location: </b>Autoglass - Av. Carlos Lindenberg, 3785, Nossa Sra. da Penha, Vila Velha/ES - Brazil<br/>
+<b>Location: </b>Autoglass - Av. Carlos Lindenberg, 3785, Nossa Sra. da Penha, Vila Velha/ES - Brazil<br/><br/>
+<b>Event Site: </b> <a href="https://www.sympla.com.br/evento/dev-day-2/3009937">Link</a><br/>
 <b>Linkedin: </b> <a href="https://www.linkedin.com/posts/tallesvaliatti_fala-galera-nesse-final-de-semana-05-ugcPost-7347965282335842307-BgTp/">Post</a><br/>
-<b>Number of Participants:</b> 100<br/><br/>
+<b>See Photos:</b> <a href="https://github.com/luizvitorf/Community-Contributions/tree/main/Events/2025-07-05%20-%20Dev%20Day%20%2302/Photos">Here</a><br/><br/>
+<b>Number of Participants:</b> 100<br/>
+
 
 <b>Organization:</b><br/>
 
