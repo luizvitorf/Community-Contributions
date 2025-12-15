@@ -1,38 +1,26 @@
-# Events
+# Event Details:
 
-<b>Number of contributions: 5</b>
+<b>Name:</b> Power Talks: Database Duel - SQL Server vs. PostgreSQL (organization)<br/>
+<b>Date:</b> Aug 21, 2025<br/>
+<b>Location:</b> Unisales - Av. Vitória, 950, Forte São João, Vitória/ES - Brazil<br/><br/>
+<b>Event Site:</b> <a href="https://www.sympla.com.br/evento/power-talks-duelo-dos-bancos-de-dados-sql-server-x-postgresql/3078307">Link</a><br/>
+<b>Linkedin:</b> <a href="https://www.linkedin.com/posts/luizvitorlima_soupowertuning-powertalks-unisales-activity-7364641348907339777-cQJh/">Post</a><br/>
+<b>See Photos:</b> <a href="">Here</a><br/><br/>
+<b>Number of Participants: </b>100<br/><br/>
 
-<b>Dev Day #2 (organização)</b>
+<b>Organization:</b><br/>
 
-<b>Data:</b> 05/07/2025<br>
-<b>Local:</b> Autoglass – Av. Carlos Lindenberg, 3785, Nossa Sra. da Penha, Vila Velha/ES (próximo ao viaduto)<br>
-<b>Link Event:</b> https://www.sympla.com.br/evento/dev-day-2/3009937<br>
-<b>Linkedin:</b> https://www.linkedin.com/posts/tallesvaliatti_fala-galera-nesse-final-de-semana-05-ugcPost-7347965282335842307-BgTp/<br><br>
+I contacted the person in charge at Unisales so that we could hold the event. We aligned several details for the day of the event, date, speakers and topics to be covered, Unisales classes that would attend the lecture, etc. We also held some alignment meetings before the event.<br/>
 
-<b>Power Talks: Duelo dos Bancos de Dados - SQL Server X PostgreSQL (organização)</b>
+<b>Event:</b><br/>
 
-<b>Data:</b> 21/08/2025<br>
-<b>Local:</b> Unisales, Av. Vitória, 950, Forte São João, Vitória/ES<br>
-<b>Link Event:</b> https://www.sympla.com.br/evento/power-talks-duelo-dos-bancos-de-dados-sql-server-x-postgresql/3078307<br>
-<b>Linkedin:</b> https://www.linkedin.com/posts/luizvitorlima_soupowertuning-powertalks-unisales-activity-7364641348907339777-cQJh/<br><br>
+Two giants of the database world faced off in a completely free technical debate:<br/>
 
-<b>Mesa Redonda - Primeiros Passos na TI (palestrante)</b>
+• Rodrigo Ribeiro – National reference in SQL Server<br/>
+• Raul Oliveira – National reference in PostgreSQL<br/>
 
-<b>Data:</b> 11/09/2025<br>
-<b>Local:</b> SENAC – Vitória - Avenida Marechal Mascarenhas de Moraes, 2077<br>
-<b>Link Event:</b> https://www.sympla.com.br/evento/mesa-redonda-primeiros-passos-na-ti/3114690<br>
-<b>Linkedin:</b> https://www.linkedin.com/posts/rusleysantos_foi-muito-bom-estar-com-voc%C3%AAs-e-poder-compartilhar-ugcPost-7372119171867963392-njWL/<br><br>
-
-<b>Dev Day #03 - Carreira: Iniciando do Zero! (palestrante)</b>
-
-<b>Data:</b> 04/10/2025<br>
-<b>Local:</b> Faculdade Multivix Vila Velha - Rod. do Sol, 3990 - Jockey de Itaparica, Vila Velha - ES, 29129-640<br>
-<b>Link Event:</b> https://www.sympla.com.br/evento/dev-day-03/3147864<br>
-<b>Linkedin:</b> https://www.linkedin.com/posts/luizvitorlima_luizlimadba-ties-carreira-activity-7380907795723776000-YAYW/<br><br>
-
-<b>Data & AI Saturday 2025 - Vitória-ES (organização)</b>
-
-<b>Data:</b> 06/12/2025<br>
-<b>Local:</b> Unisales, Av. Vitória, 950, Forte São João, Vitória/ES<br>
-<b>Link Event:</b> https://www.sympla.com.br/evento/data-saturday-1129-vitoria-2025/3164755<br>
-<b>Linkedin:</b> https://www.linkedin.com/feed/update/urn:li:activity:7404175864017547264/
+Topics covered:<br/>
+- Which is better: SQL Server or PostgreSQL?<br/>
+- When is it worth paying for a license?<br/>
+- How far can Postgres go?<br/>
+- AI tools in each one<br/>
