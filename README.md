@@ -9,10 +9,10 @@ Azure
 
 <b>Contributions:</b>
 
-<a href="https://github.com/luizvitorf/Community-Contributions/blob/main/Microsoft%20Docs/Microsoft%20Docs.md">Microsoft Docs (3 contributions)</a><br>
 <a href="https://github.com/luizvitorf/Community-Contributions/blob/main/Articles/Articles.md">Articles (15 contributions)</a><br>
-<a href="https://github.com/luizvitorf/Community-Contributions/blob/main/Youtube/Youtube.md">YouTube (16 contributions)</a><br>
 <a href="https://github.com/luizvitorf/Community-Contributions/blob/main/Events/Events.md">Events (5 contributions)</a><br>
+<a href="https://github.com/luizvitorf/Community-Contributions/blob/main/Microsoft%20Docs/Microsoft%20Docs.md">Microsoft Docs (3 contributions)</a><br>
+<a href="https://github.com/luizvitorf/Community-Contributions/blob/main/Youtube/Youtube.md">YouTube (16 contributions)</a><br>
 
 <b>Total Contributions: 39</b>
 
