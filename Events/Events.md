@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td align=center>1</td>
-    <td align=center>Jul 05, 2025</td>
+    <td align=center>Jul 5, 2025</td>
     <td>Dev Day #2 (organization)</td>
     <td align=center><a href="https://github.com/luizvitorf/Community-Contributions/blob/main/Events/2025-07-05%20-%20Dev%20Day%20%2302/Events.md">Link</a></td>
   </tr>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td align=center>5</td>
-    <td align=center>Dec 06, 2025</td>
+    <td align=center>Dec 6, 2025</td>
     <td>Data & AI Saturday – Vitória-ES 2025 (organization)</td>
     <td align=center><a href="https://github.com/luizvitorf/Community-Contributions/blob/main/Events/2025-12-06%20-%20Data%20%26%20AI%20Saturday%20-%20Vit%C3%B3ria-ES%202025/Events.md">Link</a></td>
   </tr>
