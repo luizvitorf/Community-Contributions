@@ -103,65 +103,76 @@ Join us to explore how this management impacts business decisions, innovation, a
     <td align=center>Power Live 07 - What's New in SQL Server 2025 in Practice</td>
     <td>SQL Server 2025 Public Preview was announced this week, and we invited Rodrigo Ribeiro, Head of Innovation at Power Tuning, to a conversation. He has been testing the product for several months, providing feedback to Microsoft itself.<br/>
 The following topics were covered in this live session:<br/>
-AI (artificial intelligence) support - New AI_GENERATE_EMBEDDINGS function<br/>
-New CREATE EXTERNAL MODEL command<br/>
-New Dev features: sp_invoke_rest_endpoint procedure and authentication using CREATE SCOPED CREDENTIAL (sending HTTP POST and GET requests and Authentication via Bearer Token)<br/>
-Quick demonstration with some questions in the SSMS 21 copilot</td>
+• AI (artificial intelligence) support - New AI_GENERATE_EMBEDDINGS function<br/>
+• New CREATE EXTERNAL MODEL command<br/>
+• New Dev features: sp_invoke_rest_endpoint procedure and authentication using CREATE SCOPED CREDENTIAL (sending HTTP POST and GET requests and Authentication via Bearer Token)<br/>
+• Quick demonstration with some questions in the SSMS 21 copilot</td>
     <td align=center><a href="https://www.youtube.com/watch?v=XbcENZysqhQ&list=PLZZcZLEIKFuIPXlB20Nbp5tL5g7nx2Br0">Link</a></td>
     <td align=center><a href="https://www.linkedin.com/posts/luizvitorlima_sqlserver2025-novidades-soupowertuning-activity-7331270022138331140-Wihk/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABlpREkBRBgqUI8KEUjb8qYFKWXKx9-YImo">Link</a></td>
   </tr>
    <tr>
     <td align=center>11</td>
     <td align=center><a href="https://www.youtube.com/@PowerTuningData">Power Tuning</a></td>
-    <td align=center> </td>
-    <td align=center> </td>
-    <td> </td>
-    <td align=center><a href="">Link</a></td>
-    <td align=center><a href="">Link</a></td>
+    <td align=center>04/06/2025</td>
+    <td align=center>Power Live 07 - What's New in SQL Server 2025 in Practice - Part 2</td>
+    <td>Part 2 - SQL Server 2025 Public Preview has been announced, and we invited Rodrigo Ribeiro, Head of Innovation at Power Tuning, to a conversation. He has been testing the product for several months, providing feedback to Microsoft itself.<br/>
+In this live session, he will show some new features, such as:<br/>
+• AI (artificial intelligence) support<br/>
+• New developer features: json, regex, HTTP API<br/>
+• Engine improvements<br/>
+• SSMS 21 (SQL Server Management Studio)<br/>
+• Copilot</td>
+    <td align=center><a href="https://www.youtube.com/watch?v=kdLFVzr8gKA&list=PLZZcZLEIKFuIPXlB20Nbp5tL5g7nx2Br0">Link</a></td>
+    <td align=center><a href="https://www.linkedin.com/posts/sou-powertuning_%C3%A9-hoje-galera-power-live-08-novidades-ugcPost-7334238731911983105-vHzx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABlpREkBRBgqUI8KEUjb8qYFKWXKx9-YImo">Link</a></td>
   </tr>
    <tr>
     <td align=center>12</td>
     <td align=center><a href="https://www.youtube.com/@PowerTuningData">Power Tuning</a></td>
-    <td align=center> </td>
-    <td align=center> </td>
-    <td> </td>
-    <td align=center><a href="">Link</a></td>
-    <td align=center><a href="">Link</a></td>
+    <td align=center>03/07/2025</td>
+    <td align=center>Power Live 09 - 11th Anniversary Special of Power Tuning</td>
+    <td>In this special 11th anniversary live stream from Power Tuning, we'll show you how to reduce Power BI costs by up to 90%, improve report governance, and customize your dashboards with visual identity and extra features.<br/>
+See also how to integrate Generative AI via WhatsApp to interact with your data in real time.<br/>
+Speakers: Dirceu Resende and Rafael Mendonça, with Luiz Lima as presenter.</td>
+    <td align=center><a href="https://www.youtube.com/watch?v=0nv8KF-vEjY&list=PLZZcZLEIKFuIPXlB20Nbp5tL5g7nx2Br0">Link</a></td>
+    <td align=center><a href="https://www.linkedin.com/posts/luizvitorlima_soupowertuning-11anos-powerembedded-activity-7346851368860549125-vc2Y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABlpREkBRBgqUI8KEUjb8qYFKWXKx9-YImo">Link</a></td>
   </tr>
    <tr>
     <td align=center>13</td>
     <td align=center><a href="https://www.youtube.com/@PowerTuningData">Power Tuning</a></td>
-    <td align=center> </td>
-    <td align=center> </td>
-    <td> </td>
-    <td align=center><a href="">Link</a></td>
-    <td align=center><a href="">Link</a></td>
+    <td align=center>28/08/2025</td>
+    <td align=center>Power Live 10 - Creating Multi-Agent AI with N8N</td>
+    <td>Have you ever imagined orchestrating multiple Artificial Intelligence agents working together in an automated way? In this live session, we'll show you how to create multi-agents of AI using the power of N8N, one of the most versatile automation tools on the market.</td>
+    <td align=center><a href="https://www.youtube.com/watch?v=8jHnT4V3iLE&list=PLZZcZLEIKFuIPXlB20Nbp5tL5g7nx2Br0">Link</a></td>
+    <td align=center><a href="https://www.linkedin.com/posts/luizvitorlima_soupowertuning-n8n-siainteligencia-activity-7367162944712871937-A31w/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABlpREkBRBgqUI8KEUjb8qYFKWXKx9-YImo">Link</a></td>
   </tr>
    <tr>
     <td align=center>14</td>
     <td align=center><a href="https://www.youtube.com/@PowerTuningData">Power Tuning</a></td>
-    <td align=center> </td>
-    <td align=center> </td>
-    <td> </td>
-    <td align=center><a href="">Link</a></td>
-    <td align=center><a href="">Link</a></td>
+    <td align=center>23/09/2025</td>
+    <td align=center>Power Live 11 - AI Allied to Productivity</td>
+    <td>Artificial Intelligence, or the famous AI, is already available and ubiquitous! In this chat, we'll show you its reach and how you can make it your personal assistant for many activities! Whether at work, in your personal life, or even in planning events, trips, or adjusting your texts to improve the tone of the conversation.<br/>
+Expand your knowledge and see the possibilities in the use of AI.</td>
+    <td align=center><a href="https://www.youtube.com/watch?v=Agm5Dflfyvs&list=PLZZcZLEIKFuIPXlB20Nbp5tL5g7nx2Br0">Link</a></td>
+    <td align=center><a href="https://www.linkedin.com/posts/luizvitorlima_soupowertuning-ia-produtividade-activity-7376582950009630721-VgGo/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABlpREkBRBgqUI8KEUjb8qYFKWXKx9-YImo">Link</a></td>
   </tr>
    <tr>
     <td align=center>15</td>
     <td align=center><a href="https://www.youtube.com/@PowerTuningData">Power Tuning</a></td>
-    <td align=center> </td>
-    <td align=center> </td>
-    <td> </td>
-    <td align=center><a href="">Link</a></td>
-    <td align=center><a href="">Link</a></td>
+    <td align=center>14/10/2025</td>
+    <td align=center>Power Live 12 - Power BI reports with performance, governance, and savings!</td>
+    <td>In this special edition, we will be joined by Alison Pezzott, content creator and owner of a channel with over 12,000 subscribers, to talk about: Advantages of composite semantic models with Direct Lake, RLS, and Power Embedded.<br/>
+If you are looking for better performance, more control, and cost savings in your Power BI reports, this live event is unmissable!</td>
+    <td align=center><a href="https://www.youtube.com/watch?v=6fhjMjb_4Fc&list=PLZZcZLEIKFuIPXlB20Nbp5tL5g7nx2Br0">Link</a></td>
+    <td align=center><a href="https://www.linkedin.com/posts/luizvitorlima_soupowertuning-directlake-rls-activity-7384148179631648768--aRB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABlpREkBRBgqUI8KEUjb8qYFKWXKx9-YImo">Link</a></td>
   </tr>
    <tr>
     <td align=center>16</td>
     <td align=center><a href="https://www.youtube.com/@PowerTuningData">Power Tuning</a></td>
-    <td align=center> </td>
-    <td align=center> </td>
-    <td> </td>
-    <td align=center><a href="">Link</a></td>
-    <td align=center><a href="">Link</a></td>
+    <td align=center>26/11/2025</td>
+    <td align=center>Power Live 13 - AI in SQL Server 2025</td>
+    <td>In this live stream, the Rodrigo's will show some of the new AI features in SQL Server 2025.<br/>
+Topics to be covered: embeddings, chunk, rag, create external model, vector index</td>
+    <td align=center><a href="https://www.youtube.com/watch?v=oo5zHk5gIpE">Link</a></td>
+    <td align=center><a href="https://www.linkedin.com/posts/luizvitorlima_luizlimadba-sqlserver2025-novidades-activity-7400093971214925824-BP_r/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABlpREkBRBgqUI8KEUjb8qYFKWXKx9-YImo">Link</a></td>
   </tr>
 </table>
