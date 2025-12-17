@@ -60,7 +60,104 @@ Luiz Vitor França Lima, Ítalo Mesquita, Gabriel Quintella, Wallace Camargo, Ra
   </tr>
   <tr>
     <td align=center>6</td>
-    <td align=center><a href=""> </a></td>
+    <td align=center><a href="https://www.youtube.com/@PowerTuningData">Power Tuning</a></td>
+    <td align=center>26/02/2025</td>
+    <td align=center>Power Live 03 - Oracle Database Monitoring</td>
+    <td>Discover best practices and tools to monitor performance, identify bottlenecks, and ensure the health of your Oracle database. Ideal for DBAs, developers, and technology enthusiasts looking to optimize their data environments.</td>
+    <td align=center><a href="https://www.youtube.com/watch?v=_toJ8hhdb14&list=PLZZcZLEIKFuIPXlB20Nbp5tL5g7nx2Br0">Link</a></td>
+    <td align=center><a href="https://www.linkedin.com/posts/luizvitorlima_soupowertuning-poweralerts-oracle-activity-7300834628200808449-suN2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABlpREkBRBgqUI8KEUjb8qYFKWXKx9-YImo">Link</a></td>
+  </tr>
+   <tr>
+    <td align=center>7</td>
+    <td align=center><a href="https://www.youtube.com/@PowerTuningData">Power Tuning</a></td>
+    <td align=center>19/03/2025</td>
+    <td align=center>PowerLive 04 - Special: Women in IT - Everyday Cases</td>
+    <td>Guests: Camila Carmo, Laura Kuntz, Raiane Flores, Taiany Coelho e Thais Gonçalves<br/>
+In this special edition of PowerLive, some of the women from Power Tuning will share their daily experiences in technology, reminisce about memorable moments in their careers, and discuss relevant topics in the field. In addition, we'll have an interactive roundtable discussion, answering questions and exchanging ideas live!</td>
+    <td align=center><a href="https://www.youtube.com/watch?v=j2T53NOUr9U&list=PLZZcZLEIKFuIPXlB20Nbp5tL5g7nx2Br0">Link</a></td>
+    <td align=center><a href="https://www.linkedin.com/posts/luizvitorlima_soupowertuning-mulheres-ti-activity-7308455706569986049-buOA/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABlpREkBRBgqUI8KEUjb8qYFKWXKx9-YImo">Link</a></td>
+  </tr>
+   <tr>
+    <td align=center>8</td>
+    <td align=center><a href="https://www.youtube.com/@PowerTuningData">Power Tuning</a></td>
+    <td align=center>09/04/2025</td>
+    <td align=center>PowerLive 05 - The IT Manager's Perspective - Database</td>
+    <td>In a data-driven world, understanding the role of the IT manager in the efficient administration of databases is fundamental to the success of companies.
+Join us to explore how this management impacts business decisions, innovation, and strategies!</td>
+    <td align=center><a href="https://www.youtube.com/watch?v=qLFrDJR9zyU&list=PLZZcZLEIKFuIPXlB20Nbp5tL5g7nx2Br0">Link</a></td>
+    <td align=center><a href="https://www.linkedin.com/posts/luizvitorlima_soupowertuning-powerlive-gestaoti-activity-7316057321497878531-PrHd/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABlpREkBRBgqUI8KEUjb8qYFKWXKx9-YImo">Link</a></td>
+  </tr>
+   <tr>
+    <td align=center>9</td>
+    <td align=center><a href="https://www.youtube.com/@PowerTuningData">Power Tuning</a></td>
+    <td align=center>07/05/2025</td>
+    <td align=center>PowerLive 06 - Power CLR: APIs, Files, and much more directly in SQL Server</td>
+    <td>Are you still using xp_cmdshell or OLE Automation to integrate your SQL Server with APIs, files, or FTP? Then this live session is for you. We'll introduce you to Power CLR, a library with over 200 functions and procedures in C#, created to extend the capabilities of SQL Server with security, performance, and easy maintenance. Integrate with REST APIs, read and write CSV, Excel, FTP, and SFTP files, send emails, access Active Directory, Analysis Services, SQL Agent, and much more – all directly from SQL Server, as if it were native T-SQL. No more insecure workarounds and expensive external tools. Discover how Power CLR solves your integration challenges with elegance and high performance.</td>
+    <td align=center><a href="https://www.youtube.com/watch?v=0SI5R88sw50&list=PLZZcZLEIKFuIPXlB20Nbp5tL5g7nx2Br0">Link</a></td>
+    <td align=center><a href="https://www.linkedin.com/posts/dirceuresende_powerlive-06-power-clr-apis-arquivos-activity-7326244914957045760-VrnI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABlpREkBRBgqUI8KEUjb8qYFKWXKx9-YImo">Link</a></td>
+  </tr>
+   <tr>
+    <td align=center>10</td>
+    <td align=center><a href="https://www.youtube.com/@PowerTuningData">Power Tuning</a></td>
+    <td align=center>21/05/2025</td>
+    <td align=center>Power Live 07 - What's New in SQL Server 2025 in Practice</td>
+    <td>SQL Server 2025 Public Preview was announced this week, and we invited Rodrigo Ribeiro, Head of Innovation at Power Tuning, to a conversation. He has been testing the product for several months, providing feedback to Microsoft itself.<br/>
+The following topics were covered in this live session:<br/>
+AI (artificial intelligence) support - New AI_GENERATE_EMBEDDINGS function<br/>
+New CREATE EXTERNAL MODEL command<br/>
+New Dev features: sp_invoke_rest_endpoint procedure and authentication using CREATE SCOPED CREDENTIAL (sending HTTP POST and GET requests and Authentication via Bearer Token)<br/>
+Quick demonstration with some questions in the SSMS 21 copilot</td>
+    <td align=center><a href="https://www.youtube.com/watch?v=XbcENZysqhQ&list=PLZZcZLEIKFuIPXlB20Nbp5tL5g7nx2Br0">Link</a></td>
+    <td align=center><a href="https://www.linkedin.com/posts/luizvitorlima_sqlserver2025-novidades-soupowertuning-activity-7331270022138331140-Wihk/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABlpREkBRBgqUI8KEUjb8qYFKWXKx9-YImo">Link</a></td>
+  </tr>
+   <tr>
+    <td align=center>11</td>
+    <td align=center><a href="https://www.youtube.com/@PowerTuningData">Power Tuning</a></td>
+    <td align=center> </td>
+    <td align=center> </td>
+    <td> </td>
+    <td align=center><a href="">Link</a></td>
+    <td align=center><a href="">Link</a></td>
+  </tr>
+   <tr>
+    <td align=center>12</td>
+    <td align=center><a href="https://www.youtube.com/@PowerTuningData">Power Tuning</a></td>
+    <td align=center> </td>
+    <td align=center> </td>
+    <td> </td>
+    <td align=center><a href="">Link</a></td>
+    <td align=center><a href="">Link</a></td>
+  </tr>
+   <tr>
+    <td align=center>13</td>
+    <td align=center><a href="https://www.youtube.com/@PowerTuningData">Power Tuning</a></td>
+    <td align=center> </td>
+    <td align=center> </td>
+    <td> </td>
+    <td align=center><a href="">Link</a></td>
+    <td align=center><a href="">Link</a></td>
+  </tr>
+   <tr>
+    <td align=center>14</td>
+    <td align=center><a href="https://www.youtube.com/@PowerTuningData">Power Tuning</a></td>
+    <td align=center> </td>
+    <td align=center> </td>
+    <td> </td>
+    <td align=center><a href="">Link</a></td>
+    <td align=center><a href="">Link</a></td>
+  </tr>
+   <tr>
+    <td align=center>15</td>
+    <td align=center><a href="https://www.youtube.com/@PowerTuningData">Power Tuning</a></td>
+    <td align=center> </td>
+    <td align=center> </td>
+    <td> </td>
+    <td align=center><a href="">Link</a></td>
+    <td align=center><a href="">Link</a></td>
+  </tr>
+   <tr>
+    <td align=center>16</td>
+    <td align=center><a href="https://www.youtube.com/@PowerTuningData">Power Tuning</a></td>
     <td align=center> </td>
     <td align=center> </td>
     <td> </td>
