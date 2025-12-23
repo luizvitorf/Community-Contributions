@@ -1,6 +1,6 @@
 # Articles
 
-<b>Number of contributions: 15</b>
+<b>Number of contributions: 16</b>
 
 <table>
   <tr>
@@ -130,5 +130,13 @@
     <td>Post about the "Data & AI Saturday 2025 – Vitória-ES" event that I helped organize for several months and that gets better every year. We had over 400 participants!</td>
     <td align=center><a href="https://luizlima.net/data-ai-saturday-2025-vitoria-es/">Link</a></td>
     <td align=center><a href="https://www.linkedin.com/posts/luizvitorlima_luizlimadba-microsoft-comunidade-activity-7404175864017547264-QAmS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABlpREkBRBgqUI8KEUjb8qYFKWXKx9-YImo">Link</a></td>
+  </tr>
+   <tr>
+    <td align=center>16</td>
+    <td align=center>23/12/2025</td>
+    <td>Retrospective 2025</td>
+    <td>In this post, I did a retrospective of my year 2025, listing the main events, highlighting some personal goals, and showing several events and live streams I participated in. Finally, I defined some goals for next year. The idea of ​​the post is also to try to serve as inspiration for other people to continue evolving.</td>
+    <td align=center><a href="https://luizlima.net/retrospectiva-2025/">Link</a></td>
+    <td align=center><a href="https://www.linkedin.com/feed/update/urn:li:activity:7409171097192927232/">Link</a></td>
   </tr>
 </table>
